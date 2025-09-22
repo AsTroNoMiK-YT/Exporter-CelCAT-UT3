@@ -2,7 +2,7 @@
 Ce post concerne les étudiants, étudiantes, enseignants et enseignantes de l'Université de Toulouse. Exportez facilement votre Emploi du Temps CelCAT en format iCalendar (.ics) pour le visualiser sur Google Agenda, Outlook, Excel... (ou n'importe quel autre logiciel de calendrier). 
 *Remarque: Ce code-ci est une mise à jour et bugfixing d'un ancien script fait par [@kotomax24](https://github.com/kotomax24/CELCAT-to-.ics), mais ce script est inactif et ne fonctionne plus. Par contre, ce script est actualisé à 2025.*
 
-# 📂 TÉLÉCHARGER LE SCRIPT: [Cliquez ici.](url)
+# 📂 TÉLÉCHARGER LE SCRIPT: [> Cliquez ici <](https://github.com/AsTroNoMiK-YT/Exporter-CelCAT-UT3/blob/main/scriptCelCATExporter.js)
 
 # 1️⃣ PRÉ-REQUIS:
 - # 👉 Une compte UT3 active ([adhérée à votre emploi du temps CelCAT](https://edt.univ-tlse3.fr/calendar/))
@@ -16,7 +16,7 @@ Ce post concerne les étudiants, étudiantes, enseignants et enseignantes de l'U
   - **Cochez toutes les cases** de l'extension (en particulier celle qui donne le permis aux usagers d'exécuter des codes).
 
 - # 💾 Installation du Script (code):
-  - Téléchargez le fichier du script si cela n'est déjà pas fait.
+  - [> Téléchargez le fichier <](https://github.com/AsTroNoMiK-YT/Exporter-CelCAT-UT3/blob/main/scriptCelCATExporter.js) du script si cela n'est déjà pas fait.
   - Dans une nouvelle fenêtre de votre navigateur, cliquez sur le symbole en forme de "puzzle", puis retrouver le logo noir qui correspond à Tampermonkey:
   - <img width="856" height="597" alt="image" src="https://github.com/user-attachments/assets/6d73ecc9-fd55-4938-a938-4c303c83acfd" />
 
@@ -35,7 +35,7 @@ Ce post concerne les étudiants, étudiantes, enseignants et enseignantes de l'U
   - Assurez-vous que le script soit bien activé dans l'onglet **Userscripts installés**:
   - <img width="1530" height="192" alt="image" src="https://github.com/user-attachments/assets/83bfb443-661f-4b1a-96c2-d3bded049a4b" />
 
-- # 3️⃣ Tester sur CelCAT
+# 3️⃣ Tester sur CelCAT
   - Une fois l'extension est installée correctement, fermez votre navigateur (ceci est afin d'éviter des éventuels problèmes/bugs inattendus), puis réouvrez-le.
   - Ouvrez une onglet CelCAT et connectez-vous à votre emploi du temps.
   - Vous devriez maintenant voir apparaître une nouvelle option sur la barre d'en haut:
@@ -45,6 +45,7 @@ Ce post concerne les étudiants, étudiantes, enseignants et enseignantes de l'U
   - Cliquez sur **Exporter**. Sélectionnez l'intervalle de dates désiré pour récupérer l'emploi du temps associé. Je vais choisir par exemple depuis le 22 septembre 2025 jusqu'au 16 juin 2026. Puis cliquez sur **Exporter**.
   - <img width="751" height="414" alt="image" src="https://github.com/user-attachments/assets/a1e8ef6f-ec79-4741-a416-a946139d727a" />
 
-- # ✅ ET C'EST TOUT! ;) Un fichier .ics devrait se télécharger automatiquement sur votre navigateur.
+# 📂 TÉLÉCHARGER LE SCRIPT: [> Cliquez ici <](https://github.com/AsTroNoMiK-YT/Exporter-CelCAT-UT3/blob/main/scriptCelCATExporter.js)
+# ✅ ET C'EST TOUT! ;) Un fichier .ics devrait se télécharger automatiquement sur votre navigateur.
 
-- # ➕ Quoi faire avec ce fichier?
+# ➕ Quoi faire avec ce fichier?
