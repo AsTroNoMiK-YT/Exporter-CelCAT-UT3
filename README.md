@@ -1,6 +1,6 @@
 # ❓ Exporter-CelCAT-UT3
 Ce post concerne les étudiants, étudiantes, enseignants et enseignantes de l'Université de Toulouse. Exportez facilement votre Emploi du Temps CelCAT en format iCalendar (.ics) pour le visualiser sur Google Agenda, Outlook, Excel... (ou n'importe quel autre logiciel de calendrier). 
-*Remarque: Ce code-ci est une mise à jour et bugfixing d'un ancien script fait par [@kotomax24](https://github.com/kotomax24/CELCAT-to-.ics), mais ce script est inactif et ne fonctionne plus. Par contre, ce script est actualisé à 2025.*
+*Remarque: Ce code-ci est une mise à jour et bugfixing d'un ancien script fait par [@kotomax24](https://github.com/kotomax24/CELCAT-to-.ics), mais son script est inactif et ne fonctionne plus. Par contre, ce script est actualisé à la version plus récente de CelCAT.*
 
 # 📂 TÉLÉCHARGER LE SCRIPT: [> Cliquez ici <](https://github.com/AsTroNoMiK-YT/Exporter-CelCAT-UT3/blob/main/scriptCelCATExporter.js)
 
