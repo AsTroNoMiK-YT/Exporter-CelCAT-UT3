@@ -4,8 +4,8 @@
 // @version      1.0
 // @description  Exportez facilement votre Emploi du Temps CelCAT en format iCalendar (.ics) pour le visualiser sur Google Agenda (ou n'importe quel autre programme). Ceci est une mise à jour et bugfixé d'un ancien script fait par kotomax24 (https://raw.githubusercontent.com/kotomax24/CELCAT-to-.ics/main/base.js).  format that can be exported and used in other schedule management applications.
 // @homepageURL  https://github.com/AsTroNoMiK-YT
-// @updateURL    https://raw.githubusercontent.com/kotomax24/CELCAT-to-.ics/main/base.js
-// @downloadURL  https://raw.githubusercontent.com/kotomax24/CELCAT-to-.ics/main/base.js
+// @updateURL    https://github.com/AsTroNoMiK-YT/Exporter-CelCAT-UT3/blob/main/scriptCelCATExporter.js
+// @downloadURL  https://github.com/AsTroNoMiK-YT/Exporter-CelCAT-UT3/blob/main/scriptCelCATExporter.js
 // @author       AsTroNoMiK
 // @match        https://edt.univ-tlse3.fr/calendar/*
 // @grant        none
