@@ -54,6 +54,9 @@ Ce post concerne les étudiants, étudiantes, enseignants et enseignantes de l'U
   **Comment obtenir un lien .ics depuis Outlook ?**
 
 Pour obtenir un lien .ics depuis Outlook, procédez comme suit :
+# (VOUS DEVEZ D'ABORD IMPORTER LE FICHIER .ics SUR OUTLOOK)
+- <img width="1918" height="858" alt="image" src="https://github.com/user-attachments/assets/1095fe6b-f60a-4609-91b9-184dca33c14f" />
+- <img width="1896" height="852" alt="image" src="https://github.com/user-attachments/assets/ec11471d-7df6-4d58-9446-b120b947fbc1" />
 
 Ouvrez Outlook : Suivez ce lien : https://outlook.live.com/calendar/0/view/workweek. Connectez-vous.
 <img width="3024" height="1712" alt="image" src="https://github.com/user-attachments/assets/c4bf2ce3-0426-4dc6-b41a-d22e4d03735b" />
@@ -70,7 +73,7 @@ Dans la section « Publier un calendrier », sélectionnez le calendrier pour 
 Après avoir sélectionné le calendrier, sélectionnez les autorisations. Vous pouvez choisir entre « Peut consulter lorsque je suis occupé » et « Peut consulter tous les détails ». Nous vous recommandons de sélectionner la première option, car elle ne partage que vos plages horaires occupées, et non les détails des événements.
 <img width="3024" height="1712" alt="image" src="https://github.com/user-attachments/assets/f90f496c-2a57-456e-8265-71207205b145" />
 
-Cliquez sur « Publier ». Outlook - Cliquez sur Publier.webp
+Cliquez sur « Publier »
 Après avoir cliqué sur le bouton Publier, le lien ICS pour ce calendrier est généré et vous pouvez le copier et l'utiliser immédiatement.
 
 <img width="3024" height="1712" alt="image" src="https://github.com/user-attachments/assets/13f48716-e6fc-4355-a6b6-a25b82bef0af" />
