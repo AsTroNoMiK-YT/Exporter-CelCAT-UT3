@@ -49,3 +49,32 @@ Ce post concerne les étudiants, étudiantes, enseignants et enseignantes de l'U
 # ✅ ET C'EST TOUT! ;) Un fichier .ics devrait se télécharger automatiquement sur votre navigateur.
 
 # ➕ Quoi faire avec ce fichier?
+- L'importation directe du fichier .ics sur Google Calendar semble donner une erreur. La solution que j'ai trouvé est d'importer le calendrier depuis une URL et non depuis le fichier.
+- Vous pouvez utiliser Outlook pour créer le lien URL que vous utiliserez sur Google Calendar.
+  **Comment obtenir un lien .ics depuis Outlook ?**
+
+Pour obtenir un lien .ics depuis Outlook, procédez comme suit :
+
+Ouvrez Outlook : Suivez ce lien : https://outlook.live.com/calendar/0/view/workweek. Connectez-vous.
+<img width="3024" height="1712" alt="image" src="https://github.com/user-attachments/assets/c4bf2ce3-0426-4dc6-b41a-d22e4d03735b" />
+
+Cliquez sur l'icône en forme d'engrenage en haut à droite de la page.
+<img width="3024" height="1712" alt="image" src="https://github.com/user-attachments/assets/49baceaa-3276-44d2-bac3-7257b26ff030" />
+
+Cliquez sur « Calendrier », puis sur « Calendriers partagés ».
+<img width="3024" height="1712" alt="image" src="https://github.com/user-attachments/assets/ea78f341-e5d1-49cd-90b6-5c621e066108" />
+
+Dans la section « Publier un calendrier », sélectionnez le calendrier pour lequel vous souhaitez ajouter un lien .ics.
+<img width="3024" height="1712" alt="image" src="https://github.com/user-attachments/assets/05f8b09f-0456-4d5b-91bd-e9c943f98ac0" />
+
+Après avoir sélectionné le calendrier, sélectionnez les autorisations. Vous pouvez choisir entre « Peut consulter lorsque je suis occupé » et « Peut consulter tous les détails ». Nous vous recommandons de sélectionner la première option, car elle ne partage que vos plages horaires occupées, et non les détails des événements.
+<img width="3024" height="1712" alt="image" src="https://github.com/user-attachments/assets/f90f496c-2a57-456e-8265-71207205b145" />
+
+Cliquez sur « Publier ». Outlook - Cliquez sur Publier.webp
+Après avoir cliqué sur le bouton Publier, le lien ICS pour ce calendrier est généré et vous pouvez le copier et l'utiliser immédiatement.
+
+<img width="3024" height="1712" alt="image" src="https://github.com/user-attachments/assets/13f48716-e6fc-4355-a6b6-a25b82bef0af" />
+
+- Importer l'URL sur Google Calendar:
+  **Autres calendaires -> Depuis URL -> Collez le lien que vous avez copié depuis Outlook -> Cliquez sur "Ajouter un calendrier"**
+<img width="1076" height="617" alt="image" src="https://github.com/user-attachments/assets/0daa26bd-ede0-440a-8a18-406a2ba6919e" />
