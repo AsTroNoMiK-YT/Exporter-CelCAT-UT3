@@ -6,7 +6,7 @@ Ce post concerne les étudiants, étudiantes, enseignants et enseignantes de l'U
 
 # 1️⃣ PRÉ-REQUIS:
 - # 👉 Une compte UT3 active ([adhérée à votre emploi du temps CelCAT](https://edt.univ-tlse3.fr/calendar/))
-- # 👉 Un appareil avec un navigateur capable d'installer des extensions (préférablement Google Chrome ou app Tampermonkey depuis la Play Store)
+- # 👉 Un appareil avec un navigateur capable d'installer des extensions (préférablement Google Chrome pour ordi ou app Tampermonkey depuis la Play Store pour téléphone)
 - # 👉 L'extension [Tampermonkey](https://www.tampermonkey.net/)
   
 # 2️⃣ INSTRUCTIONS:
